@@ -7,6 +7,6 @@ const user: User = {
   name: 'adeel',
   rollNumber: 22,
 };
-console.log('hello');
+console.log('yes');
 
 console.log(user);
