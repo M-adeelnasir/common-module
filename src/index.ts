@@ -1,5 +1,6 @@
 export * from './errors/ErrorMessage';
 //Re-export a;; default export
+//update the index
 export * from './errors/custom-error';
 export * from './errors/dbConn-error';
 export * from './errors/notFound-error';
