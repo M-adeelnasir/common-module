@@ -10,3 +10,4 @@ export * from './errors/unAuthorized';
 export * from './middleware/current-user';
 export * from './middleware/errorResponse';
 export * from './middleware/requireLogin';
+export * from './middleware/validet-request';
