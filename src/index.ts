@@ -22,3 +22,6 @@ export * from './events/publisher/ticket-created';
 export * from './events/publisher/ticket-upadated';
 
 export * from './events/subjects';
+
+//orders enums
+export * from './orders/orders-status-Enums';
