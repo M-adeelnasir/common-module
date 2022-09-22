@@ -4,7 +4,7 @@ export interface OrderCancelled {
   subject: Subjects;
   data: {
     id: string;
-    version?: number;
+    version: number;
     ticketId: {
       id: string;
     };

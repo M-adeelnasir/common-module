@@ -8,5 +8,6 @@ export interface TicketUpdatedCheck {
     version: number;
     price: number;
     userId: string;
+    orderId?: string;
   };
 }

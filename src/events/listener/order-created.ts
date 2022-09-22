@@ -8,7 +8,7 @@ export interface OrderCreated {
     status: OrderStatus;
     userId: string;
     expiresAt: string;
-    version?: number;
+    version: number;
     ticketId: {
       id: string;
       price: number;
