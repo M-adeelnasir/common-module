@@ -28,3 +28,6 @@ export * from './orders/orders-status-Enums';
 
 export * from './events/listener/order-cancel';
 export * from './events/listener/order-created';
+
+//order expiration
+export * from './events/listener/order-expiration';
